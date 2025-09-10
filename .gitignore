@@ -1,0 +1,20 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore build and distribution folders
+build/
+dist/
+*.spec
+
+# Ignore virtual environment
+venv/
+
+# Ignore icons only if they are temporary/generated (keep if custom assets)
+icons/
+
+# Ignore JSON files (generated at runtime)
+*.json
+
+# Ignore environment files with secrets
+.env
