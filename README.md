@@ -86,7 +86,9 @@ python gui.py
 <img width="1364" height="706" alt="Screenshot 2025-09-10 210000" src="https://github.com/user-attachments/assets/a5bde3cf-08ba-4dba-b69f-13b12dec6738" />
 
 <img width="1365" height="509" alt="Screenshot 2025-09-10 210028" src="https://github.com/user-attachments/assets/80036d4c-bd52-4f65-800c-f92d6decd7fc" />
+
 <img width="301" height="421" alt="Screenshot 2025-09-10 210219" src="https://github.com/user-attachments/assets/80736605-e4a4-4ac8-bd78-92c155c8e711" />
+
 ---
 
 ## 📜 License
