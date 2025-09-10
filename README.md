@@ -98,5 +98,7 @@ Feel free to fork and improve!
 
 ---
 
-👨‍💻 **Author:** Muhammad Anas Nadeem
+## 👤 Author
+
+**Muhammad Anas Nadeem**
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-anas-nadeem)
